@@ -1,0 +1,13 @@
+rpn.py:
+    h1: 12
+    h2: 52
+    N1: 60
+    N2: 113
+    vocabulary: 64
+    length: 173
+    calculated_length: 339.4424153519907
+    volume: 1038.0
+    difficulty: 13.038461538461538
+    effort: 13533.923076923076
+    time: 751.8846153846154
+    bugs: 0.346
