@@ -1,0 +1,12 @@
+rpn.py
+    M 55:4 RPNCalculator.ejecutar - E
+    C 14:0 RPNCalculator - B
+    F 184:0 main - A
+    M 17:4 RPNCalculator.__init__ - A
+    M 22:4 RPNCalculator._validar_pila - A
+    M 30:4 RPNCalculator._aplicar_operacion_binaria - A
+    M 43:4 RPNCalculator._aplicar_operacion_unaria - A
+    C 8:0 RPNError - A
+
+8 blocks (classes, functions, methods) analyzed.
+Average complexity: B (7.0)
