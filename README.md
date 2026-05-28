@@ -1,32 +1,17 @@
- # Proyecto de Números Primos
+# Trabajos Prácticos - [Ingenieria en Software]
 
-##  Propósito del Proyecto
-Este repositorio contiene un programa en Python para trabajar con números primos.
-El objetivo es practicar lógica de programación, estructuras básicas y control de versiones con Git.
+## Descripción
+Repositorio con los trabajos prácticos de la materia, 
+cursada 2026. 
+Este repositorio va a ser la base para el TPFI que se realiza al final de la cursada.
 
----
 
-##  Funcionalidades
+## Contenido
 
-###  Cálculo de números primos
-El programa permite:
-
-1. Verificar si un número es primo
-2. Generar una lista de números primos
-3. Mostrar resultados por pantalla
-
----
-
-##  Tecnologías utilizadas
-
-1. Python
-2. Git
-3. GitHub
-
----
-
-##  Cómo ejecutar el programa
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPO.git
+| Carpeta | Descripción |
+|--------|-------------|
+| TP1/   | num_primos (contenido en src) |
+| TP2/   | Base de la Arquiutetura |
+| TP3/   | Patrones de creacion |
+| TP4/   | Patrones Estructurales |
+| TP5/   | Patrones de Comportamiento |
